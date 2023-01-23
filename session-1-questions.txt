@@ -3,3 +3,6 @@ To improve my coding skills and try to integrate Github to my teaching
 
 2. How do you plan to use GitHub in your classroom?
 in my Stats practicals so taht stuidents start to have their repository 
+
+3. What are ways that Github might help you and your students manage code?
+By identifying code pieces from each student, allowing to provide feedback for pieces of code in a easy manner
